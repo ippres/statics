@@ -1,0 +1,17 @@
+{
+  "topRight": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-top-right-1747304021431.jpg",
+    "imagePath": "images/side-top-right-1747304021431.jpg",
+    "link": "test.html"
+  },
+  "middleLeft": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-middle-left-1747304022443.jpg",
+    "imagePath": "images/side-middle-left-1747304022443.jpg",
+    "link": "test.html"
+  },
+  "bottomRight": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-bottom-right-1747304023221.jpg",
+    "imagePath": "images/side-bottom-right-1747304023221.jpg",
+    "link": "beenn1.html"
+  }
+}
