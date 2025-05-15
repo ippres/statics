@@ -14,17 +14,22 @@
       "link": "/bio.html",
       "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747303642169.jpg",
       "imagePath": "images/slideshow-2-1747303642169.jpg"
+    },
+    {
+      "link": "",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-3-1747303769790.jpg",
+      "imagePath": "images/slideshow-3-1747303769790.jpg"
     }
   ],
   "sideBanner1": {
     "link": "",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747303713682.jpg",
-    "imagePath": "images/side-banner1-1747303713682.jpg"
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747303770831.jpg",
+    "imagePath": "images/side-banner1-1747303770831.jpg"
   },
   "sideBanner2": {
     "link": "",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747303714462.jpg",
-    "imagePath": "images/side-banner2-1747303714462.jpg"
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747303772426.jpg",
+    "imagePath": "images/side-banner2-1747303772426.jpg"
   },
-  "sha": "b69113b4796ba2a9c03157f64dfed55a897ed1f6"
+  "sha": "62a06c00cbb18e73955238b90f7bd4dd4a721c7d"
 }
