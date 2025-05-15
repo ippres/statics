@@ -1,0 +1,25 @@
+{
+  "slideshow": [
+    {
+      "link": "/bio.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747303640359.jpg",
+      "imagePath": "images/slideshow-0-1747303640359.jpg"
+    },
+    {
+      "link": "/bio.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747303641348.jpg",
+      "imagePath": "images/slideshow-1-1747303641348.jpg"
+    },
+    {
+      "link": "/bio.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747303642169.jpg",
+      "imagePath": "images/slideshow-2-1747303642169.jpg"
+    }
+  ],
+  "sideBanner1": {
+    "link": ""
+  },
+  "sideBanner2": {
+    "link": ""
+  }
+}
