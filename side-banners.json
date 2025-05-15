@@ -10,8 +10,9 @@
     "link": "test.html"
   },
   "bottomRight": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-bottom-right-1747304023221.jpg",
-    "imagePath": "images/side-bottom-right-1747304023221.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-bottom-right-1747304408316.jpg",
+    "imagePath": "images/side-bottom-right-1747304408316.jpg",
     "link": "beenn1.html"
-  }
+  },
+  "sha": "25680bb82c7c592dacab77ba955c81fe2d82f0e3"
 }
