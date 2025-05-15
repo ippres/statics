@@ -1,0 +1,17 @@
+{
+  "banner1": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner1-1747303889931.jpg",
+    "imagePath": "images/banner1-1747303889931.jpg",
+    "link": "bio.html"
+  },
+  "banner2": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner2-1747303890901.jpg",
+    "imagePath": "images/banner2-1747303890901.jpg",
+    "link": "capillaire.html"
+  },
+  "banner3": {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner3-1747303891821.jpg",
+    "imagePath": "images/banner3-1747303891821.jpg",
+    "link": ""
+  }
+}
