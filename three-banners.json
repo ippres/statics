@@ -1,17 +1,18 @@
 {
   "banner1": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner1-1747303889931.jpg",
-    "imagePath": "images/banner1-1747303889931.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner1-1747303927067.jpg",
+    "imagePath": "images/banner1-1747303927067.jpg",
     "link": "bio.html"
   },
   "banner2": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner2-1747303890901.jpg",
-    "imagePath": "images/banner2-1747303890901.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner2-1747303928176.jpg",
+    "imagePath": "images/banner2-1747303928176.jpg",
     "link": "capillaire.html"
   },
   "banner3": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner3-1747303891821.jpg",
-    "imagePath": "images/banner3-1747303891821.jpg",
-    "link": ""
-  }
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner3-1747303928978.jpg",
+    "imagePath": "images/banner3-1747303928978.jpg",
+    "link": "bio.html"
+  },
+  "sha": "daf811fa8901b16f421e52c08d0e9317c0c4c99e"
 }
