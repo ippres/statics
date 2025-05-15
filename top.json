@@ -17,9 +17,14 @@
     }
   ],
   "sideBanner1": {
-    "link": ""
+    "link": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747303713682.jpg",
+    "imagePath": "images/side-banner1-1747303713682.jpg"
   },
   "sideBanner2": {
-    "link": ""
-  }
+    "link": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747303714462.jpg",
+    "imagePath": "images/side-banner2-1747303714462.jpg"
+  },
+  "sha": "b69113b4796ba2a9c03157f64dfed55a897ed1f6"
 }
