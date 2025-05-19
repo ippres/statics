@@ -2,34 +2,29 @@
   "slideshow": [
     {
       "link": "/bio.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747303640359.jpg",
-      "imagePath": "images/slideshow-0-1747303640359.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747659098270.jpg",
+      "imagePath": "images/slideshow-0-1747659098270.jpg"
     },
     {
-      "link": "/bio.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747303641348.jpg",
-      "imagePath": "images/slideshow-1-1747303641348.jpg"
+      "link": "/bio2.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747659099736.jpg",
+      "imagePath": "images/slideshow-1-1747659099736.jpg"
     },
     {
-      "link": "/bio.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747303642169.jpg",
-      "imagePath": "images/slideshow-2-1747303642169.jpg"
-    },
-    {
-      "link": "",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-3-1747303769790.jpg",
-      "imagePath": "images/slideshow-3-1747303769790.jpg"
+      "link": "/bio3.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747659100711.jpg",
+      "imagePath": "images/slideshow-2-1747659100711.jpg"
     }
   ],
   "sideBanner1": {
-    "link": "",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747303770831.jpg",
-    "imagePath": "images/side-banner1-1747303770831.jpg"
+    "link": "deals.html",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747659101771.jpg",
+    "imagePath": "images/side-banner1-1747659101771.jpg"
   },
   "sideBanner2": {
-    "link": "",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747303772426.jpg",
-    "imagePath": "images/side-banner2-1747303772426.jpg"
+    "link": "deals2.html",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747659102569.jpg",
+    "imagePath": "images/side-banner2-1747659102569.jpg"
   },
-  "sha": "62a06c00cbb18e73955238b90f7bd4dd4a721c7d"
+  "sha": "ee79500a898c9d5beb7b4fe21c68e945174aa277"
 }
