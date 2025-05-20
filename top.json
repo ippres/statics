@@ -2,8 +2,8 @@
   "slideshow": [
     {
       "link": "/bio.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747659098270.jpg",
-      "imagePath": "images/slideshow-0-1747659098270.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747756161729.jpg",
+      "imagePath": "images/slideshow-0-1747756161729.jpg"
     },
     {
       "link": "/bio2.html",
@@ -26,5 +26,5 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747659102569.jpg",
     "imagePath": "images/side-banner2-1747659102569.jpg"
   },
-  "sha": "ee79500a898c9d5beb7b4fe21c68e945174aa277"
+  "sha": "734e17806b7fe3cb9e514147f636820797a353dd"
 }
