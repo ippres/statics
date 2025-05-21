@@ -1,19 +1,19 @@
 {
   "slideshow": [
     {
-      "link": "/bio66.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747820751645.jpg",
-      "imagePath": "images/slideshow-0-1747820751645.jpg"
+      "link": "/bio67.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747824975247.jpg",
+      "imagePath": "images/slideshow-0-1747824975247.jpg"
     },
     {
       "link": "/bio21.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747820752923.jpg",
-      "imagePath": "images/slideshow-1-1747820752923.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747824977373.jpg",
+      "imagePath": "images/slideshow-1-1747824977373.jpg"
     },
     {
       "link": "/bio33.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747820753882.jpg",
-      "imagePath": "images/slideshow-2-1747820753882.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747824978787.jpg",
+      "imagePath": "images/slideshow-2-1747824978787.jpg"
     }
   ],
   "sideBanner1": {
@@ -26,5 +26,5 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747820755896.jpg",
     "imagePath": "images/side-banner2-1747820755896.jpg"
   },
-  "sha": "b472b6866c0f967fb14d108c9756924c857e12b7"
+  "sha": "ed29832b46afb9797e71434f8f922a9e6ab595d8"
 }
