@@ -1,30 +1,30 @@
 {
   "slideshow": [
     {
-      "link": "/bio.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747756161729.jpg",
-      "imagePath": "images/slideshow-0-1747756161729.jpg"
+      "link": "/bio66.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-0-1747820751645.jpg",
+      "imagePath": "images/slideshow-0-1747820751645.jpg"
     },
     {
-      "link": "/bio2.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747659099736.jpg",
-      "imagePath": "images/slideshow-1-1747659099736.jpg"
+      "link": "/bio21.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-1-1747820752923.jpg",
+      "imagePath": "images/slideshow-1-1747820752923.jpg"
     },
     {
-      "link": "/bio3.html",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747659100711.jpg",
-      "imagePath": "images/slideshow-2-1747659100711.jpg"
+      "link": "/bio33.html",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/slideshow-2-1747820753882.jpg",
+      "imagePath": "images/slideshow-2-1747820753882.jpg"
     }
   ],
   "sideBanner1": {
-    "link": "deals.html",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747659101771.jpg",
-    "imagePath": "images/side-banner1-1747659101771.jpg"
+    "link": "deals2.html",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner1-1747820754968.jpg",
+    "imagePath": "images/side-banner1-1747820754968.jpg"
   },
   "sideBanner2": {
-    "link": "deals2.html",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747659102569.jpg",
-    "imagePath": "images/side-banner2-1747659102569.jpg"
+    "link": "deal42.html",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-banner2-1747820755896.jpg",
+    "imagePath": "images/side-banner2-1747820755896.jpg"
   },
-  "sha": "734e17806b7fe3cb9e514147f636820797a353dd"
+  "sha": "b472b6866c0f967fb14d108c9756924c857e12b7"
 }
