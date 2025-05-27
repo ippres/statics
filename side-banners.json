@@ -1,18 +1,18 @@
 {
   "topRight": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-top-right-1747304021431.jpg",
-    "imagePath": "images/side-top-right-1747304021431.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-top-right-1748337950513.jpg",
+    "imagePath": "images/side-top-right-1748337950513.jpg",
     "link": "test.html"
   },
   "middleLeft": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-middle-left-1747304022443.jpg",
-    "imagePath": "images/side-middle-left-1747304022443.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-middle-left-1748337951696.jpg",
+    "imagePath": "images/side-middle-left-1748337951696.jpg",
     "link": "test.html"
   },
   "bottomRight": {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-bottom-right-1747304408316.jpg",
-    "imagePath": "images/side-bottom-right-1747304408316.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-bottom-right-1748337952495.jpg",
+    "imagePath": "images/side-bottom-right-1748337952495.jpg",
     "link": "beenn1.html"
   },
-  "sha": "25680bb82c7c592dacab77ba955c81fe2d82f0e3"
+  "sha": "cbb0362077d59d0dd12dc1a482a7088a72cdbff8"
 }
