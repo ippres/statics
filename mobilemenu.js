@@ -1,4 +1,4 @@
-<script>
+
 if (window.innerWidth <= 768) {
   (async () => {
     const slugify = str =>
@@ -34,4 +34,3 @@ if (window.innerWidth <= 768) {
     console.log("✅ Top-level menu items rendered on mobile.");
   })();
 }
-</script>
