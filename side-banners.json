@@ -2,17 +2,17 @@
   "topRight": {
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-top-right-1748337950513.jpg",
     "imagePath": "images/side-top-right-1748337950513.jpg",
-    "link": "test.html"
+    "link": "/brands/cerave"
   },
   "middleLeft": {
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-middle-left-1748337951696.jpg",
     "imagePath": "images/side-middle-left-1748337951696.jpg",
-    "link": "test.html"
+    "link": "/brands/cerave"
   },
   "bottomRight": {
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/side-bottom-right-1748337952495.jpg",
     "imagePath": "images/side-bottom-right-1748337952495.jpg",
-    "link": "beenn1.html"
+    "link": "/brands/cerave"
   },
-  "sha": "cbb0362077d59d0dd12dc1a482a7088a72cdbff8"
+  "sha": "73cce93f4463d3fe131315e2ca5a58327fb07236"
 }
