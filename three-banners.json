@@ -2,17 +2,17 @@
   "banner1": {
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner1-1748337923409.jpg",
     "imagePath": "images/banner1-1748337923409.jpg",
-    "link": "bio.html"
+    "link": "nos-packs.html"
   },
   "banner2": {
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner2-1748337924711.jpg",
     "imagePath": "images/banner2-1748337924711.jpg",
-    "link": "capillaire.html"
+    "link": "nos-meilleurs.html"
   },
   "banner3": {
     "imageUrl": "https://cdn.jsdelivr.net/gh/ippres/statics@main/images/banner3-1748337925655.jpg",
     "imagePath": "images/banner3-1748337925655.jpg",
-    "link": "bio1000.html"
+    "link": "top-produit.html"
   },
-  "sha": "cf01bc9e20ac900e22c7cf3b931bf21174943d4a"
+  "sha": "8363cc584cee12401db400b47e915f1ba8228015"
 }
