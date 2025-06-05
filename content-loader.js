@@ -63,7 +63,7 @@ const LoadingOverlay = (() => {
 
 // Slideshow and Side Banners
 (() => {
-  LoadingOverlay.track(fetch('https://cdn.jsdelivr.net/gh/ippres/statics@main/top.json'+ getCachedTimestampQuery('top_json_ts')))
+  LoadingOverlay.track(fetch('https://cdn.jsdelivr.net/gh/ippres/statics/top.json'+ getCachedTimestampQuery('top_json_ts')))
     .then(response => {
       if (!response.ok) throw new Error('Network response was not ok');
       return response.json();
@@ -153,7 +153,7 @@ const LoadingOverlay = (() => {
 
 // Timers Setup
 (() => {
-  LoadingOverlay.track(fetch('https://cdn.jsdelivr.net/gh/ippres/statics@main/timers.json' + getCachedTimestampQuery('top_json_ts')))
+  LoadingOverlay.track(fetch('https://cdn.jsdelivr.net/gh/ippres/statics/timers.json' + getCachedTimestampQuery('top_json_ts')))
     .then(response => response.json())
     .then(data => {
       setupTimers(data);
