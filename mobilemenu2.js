@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const rootElement = document.querySelector("#menu-categories-1");
       if (!rootElement) return console.warn("❌ Menu root #menu-categories-1 not found");
 
-      const data = await fetch("https://test.dibitel.com/rest/V1/category-thumbnails").then(r => r.json());
+      const data = await fetch("https://dev.dibitel.com/rest/V1/category-thumbnails").then(r => r.json());
       const root = data.find(cat => cat.id === "2");
       if (!root) return console.warn("❌ Category with id=2 not found");
 
